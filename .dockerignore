@@ -1,0 +1,5 @@
+tinyq-server
+*.o
+*.dSYM
+.git
+node_modules
